@@ -1,0 +1,5 @@
+processName/arrivalTime/CPUTime/priority
+P1/0/10
+P2/5/5
+P3/10/5
+P4/15/2
